@@ -1,7 +1,8 @@
 import { Outlet, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
 import Header from "./components/Header";
-import Footer from "./components/footer";
+//fixed footer to be uppercase
+import Footer from "./components/Footer";
 
 function App() {
   const [animate, setAnimate] = useState(false);
