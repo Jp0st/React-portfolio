@@ -1,4 +1,4 @@
-import profilePic from "";
+import profilePic from "/public/assets/images/profile-picture.jpg";
 import "../styles/About.css";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
             <div className="text-center">
               <h1 className="mb-4">Welcome to My Portfolio</h1>
               <p className="lead">
-                Short Description // Intro
+                Hi my name is John and I've spent the last six months learning both front-end and back-end web development. I have a passion for learning and I'm excited to continue to grow my skills as a developer. I'm currently looking for a full-time position as a web developer.
               </p>
             </div>
           </div>
@@ -28,10 +28,10 @@ const About = () => {
           </div>
           <div className="col-md-6">
             <p className="lead">
-             Short Descriptive Paragraph!
+              I have a background in the scientific field and have previously worked as a laboratory technician. I have a passion for learning and I'm excited to continue to grow my skills as a developer. I'm currently looking for a full-time position as a web developer.
             </p>
             <p className="lead">
-              Slightly more description!
+              I am currently based in New Jersey and I'm open to relocation. I'm also open to remote work. Feel free to contact me through the contact form above using my email.
             </p>
           </div>
         </div>

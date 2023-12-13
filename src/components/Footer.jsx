@@ -17,7 +17,7 @@ export default function Footer() {
           </a>
           |
           <a
-            href=""
+            href="https://github.com/Jp0st"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link mx-2"

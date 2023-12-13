@@ -10,19 +10,12 @@ import {
   faGit,
   faSearchengin,
 } from "@fortawesome/free-brands-svg-icons";
-import resumePdfLink from "../assets/resume.pdf";
 
 const Resume = () => {
   return (
     <div className="container mt-5 text-center">
       <h1 className="mb-4">Resume</h1>
       <div className="mt-4">
-        <p className="lead">
-          Download:{" "}
-          <a href={resumePdfLink} download="Resume.pdf">
-            Resume.pdf
-          </a>
-        </p>
       </div>
       <div className="row">
         <h2 className="my-4">Proficiencies</h2>

@@ -13,7 +13,7 @@ const Navigation = ({ currentPage, setPage }) => {
         to="/"
         onClick={() => handleLinkClick("/")}
       >
-        Daniel Merkin
+       John Post
       </Link>
       <button
         className="navbar-toggler"

@@ -1,49 +1,32 @@
-/*IMPORT IMAGE ASSETS*/
 
 const projects = [
   {
-    title: "Placeholder 1",
-    description: "Placeholder Description 1",
-    link: "Placeholder Link 1",
-    repo: "Placeholder Repo Link 1",
-    image: "Placeholder Image 1",
+    title: "Now We're Cooking",
+    description: "A recipe posting blog that allows users to create, edit, and delete recipes. Users can also comment on recipes and view other users' profiles.",
+    link: "https://nowwerecooking-494c285649f9.herokuapp.com/",
+    repo: "https://github.com/RobKaiser97/Recipe-Blog",
+    image: "/assets/images/now-were-cooking.png",
   },
   {
-    title: "Placeholder 2",
-    description:
-      "Placeholder Description 2",
-    link: "Placeholder Link 2",
-    repo: "Placeholder Repo Link 2",
-    image: "Placeholder Image 2",
+    title: "Exercise Planner",
+    description:"A workout tracker that allows users to create workouts based on their desired muscle group and intensity.",
+    link: "https://jp0st.github.io/Exercise-Planner-App/",
+    repo: "https://github.com/Jp0st/Exercise-Planner-App",
+    image: "/assets/images/exercise-planner.jpg",
   },
   {
-    title: "Placeholder 3",
-    description:
-      "Placeholder Description 3",
-    link: "Placeholder Link 3",
-    repo: "Placeholder Repo Link 3",
-    image: "Placeholder Image 3",
+    title: "Book Search Engine",
+    description: "A Google Books API search engine that allows users to search for books and save them to their profile.",
+    link: "https://powerful-spire-59492-c14c9f671f0c.herokuapp.com",
+    repo: "https://github.com/Jp0st/Book-Search-App",
+    image: "/assets/images/booksearch.png",
   },
   {
-    title: "Placeholder 4",
-    description: "Placeholder Description 4",
-    link: "Placeholder Link 4",
-    repo: "Placeholder Repo Link 4",
-    image: "Placeholder Image 4",
-  },
-  {
-    title: "Placeholder 5",
-    description: "Placeholder Description 5",
-    link: "Placeholder Link 5",
-    repo: "Placeholder Repo Link 5",
-    image: "Placeholder Image 5",
-  },
-  {
-    title: "Placeholder 6",
-    description:"Placeholder Description 6",
-    link: "Placeholder Link 6",
-    repo: "Placeholder Repo Link 6",
-    image:"Placeholder Image 6",
+    title: "Note Taker",
+    description: "A simple application run locally that allows the user to log notes and save them to a database.",
+    link: "https://github.com/Jp0st/Note-Taker",
+    repo: "https://github.com/Jp0st/Note-Taker",
+    image: "/assets/images/Note-taker.png",
   },
 ];
 
