@@ -21,9 +21,12 @@ After installing the proper dependencies you can run the project locally on the 
 
 https://main--stellar-squirrel-cc54de.netlify.app
 
+![Porfolio](https://github.com/Jp0st/React-portfolio/assets/108998647/10e981a1-02fe-4994-91ef-5664105622ec)
+
+
 ## Credits
 
-Dan Merkin helped me clean up and format my code to get the base react profile working. His work can be found at: https://github.com/dmerk2
+Dan Merkin helped me clean up and format my code to get the base react profile working.
 
 ## License
 
